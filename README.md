@@ -23,6 +23,7 @@ atualização da base de dados
 ##
 Prévia
 <img width="637" height="134" alt="Captura de tela 2025-09-12 112414" src="https://github.com/user-attachments/assets/8b3e15be-a75e-4789-a55d-42af1607c0ed" />
-<img width="1174" height="576" alt="Captura de tela 2025-09-12 112336" src="https://github.com/user-attachments/assets/bf0bcf2e-cfee-48f7-b9e6-f92f8f0e578a" />
 <img width="645" height="217" alt="Captura de tela 2025-09-12 112439" src="https://github.com/user-attachments/assets/bb25f923-6445-4196-99e6-e4a037a55846" />
+<img width="940" height="588" alt="Captura de tela 2025-09-12 113134" src="https://github.com/user-attachments/assets/5842ed7a-20a4-4c92-b04c-2f753ff0f466" />
+
  
