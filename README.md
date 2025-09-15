@@ -26,9 +26,9 @@ Prévia:
 <img width="645" height="217" alt="Captura de tela 2025-09-12 112439" src="https://github.com/user-attachments/assets/bb25f923-6445-4196-99e6-e4a037a55846" />
 <img width="940" height="588" alt="Captura de tela 2025-09-12 113134" src="https://github.com/user-attachments/assets/5842ed7a-20a4-4c92-b04c-2f753ff0f466" />
 # estrutura de arquivo
-Dashboard-loja\
-Dashboard - neto veiculos.xlsx\
-REALME.md\
+___Dashboard-loja\
+___Dashboard - neto veiculos.xlsx\
+___REALME.md\
 
 # como usar
 Clone esse repositorio ou baixe o .zip:\
@@ -43,3 +43,9 @@ Dados de vendas de uma empresa de automoveis em fortaleza no ano de 2024, com ba
 # Requisitos
 Microsoft Excel 2019 ou superior ( recomendado excel 365)
  
+# Licença 
+Este progeto está licenciado sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+
+# Contato
+Ana ruthe marques lima\
+ruthmarques024@gmail.com
