@@ -28,7 +28,7 @@ atualização da base de dados
 # estrutura de arquivo
 ___Dashboard-loja\
 ___Dashboard - neto veiculos.xlsx\
-___REALME.md\
+___REALME.md
 
 # como usar
 Clone esse repositorio ou baixe o .zip:\
