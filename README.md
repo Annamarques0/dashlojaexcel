@@ -25,5 +25,21 @@ Prévia:
 <img width="637" height="134" alt="Captura de tela 2025-09-12 112414" src="https://github.com/user-attachments/assets/8b3e15be-a75e-4789-a55d-42af1607c0ed" />
 <img width="645" height="217" alt="Captura de tela 2025-09-12 112439" src="https://github.com/user-attachments/assets/bb25f923-6445-4196-99e6-e4a037a55846" />
 <img width="940" height="588" alt="Captura de tela 2025-09-12 113134" src="https://github.com/user-attachments/assets/5842ed7a-20a4-4c92-b04c-2f753ff0f466" />
+# estrutura de arquivo
+Dashboard-loja\
+Dashboard - neto veiculos.xlsx\
+REALME.md\
 
+# como usar
+Clone esse repositorio ou baixe o .zip:\
+git clone  https://github.com/Annamarques0/dashlojaexcel.git.
+abra o arquivo dashboard - Neto Veiculos.xlsx no excel.
+Atualize os dados na planilha Base de dados.
+Navegue pelo painel para visualizar os insights.
+
+# origem dos dados
+Dados de vendas de uma empresa de automoveis em fortaleza no ano de 2024, com base em algumas marcas e modelos de carros.
+
+# Requisitos
+Microsoft Excel 2019 ou superior ( recomendado excel 365)
  
